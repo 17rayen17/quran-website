@@ -45,7 +45,7 @@ function Surah() {
         const audio = item.querySelector("audio");
         audio.pause();
         item.style.color = "var(--light)";
-        e.target.parentElement.style.background = "transparent";
+        item.style.background = "transparent";
         item.querySelectorAll("svg")[0].classList.remove("d-none");
         item.querySelectorAll("svg")[1].classList.add("d-none");
       });
