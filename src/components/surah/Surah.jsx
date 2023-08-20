@@ -56,6 +56,7 @@ function Surah() {
       voice.play().catch((error) => {
         console.error("Error playing audio:", error);
         e.target.parentElement.style.color = "var(--light)";
+        e.target.parentElement.style.background = "transparent";
         e.target.querySelectorAll("svg")[0].classList.remove("d-none");
         e.target.querySelectorAll("svg")[1].classList.add("d-none");
       });
