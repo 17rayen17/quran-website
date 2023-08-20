@@ -123,7 +123,7 @@ function Nav() {
               <InstagramIcon />
             </a>
           </div>
-          <h4>Created By Khalil Andolsi | V0.1.0</h4>
+          <h4>Created By Khalil Andolsi | V2.0.0</h4>
         </div>
       </div>
     </header>
