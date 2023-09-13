@@ -119,7 +119,7 @@ function Nav() {
             <a href="https://github.com/KhalilAndolsi" target='_blanck'>
               <GitHubIcon />
             </a>
-            <a href="https://www.instagram.com/khalil.161/" target='_blanck' >
+            <a href="https://www.instagram.com/khalil_0110_" target='_blanck' >
               <InstagramIcon />
             </a>
           </div>
