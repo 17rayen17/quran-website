@@ -113,17 +113,17 @@ function Nav() {
         </ul>
         <div className="contact">
           <div>
-            <a href="https://www.facebook.com/khalil.andolsi.161" target='_blanck'>
+            <a href="https://www.facebook.com" target='_blanck'>
               <FacebookIcon />
             </a>
-            <a href="https://github.com/KhalilAndolsi" target='_blanck'>
+            <a href="https://github.com/174rayen17" target='_blanck'>
               <GitHubIcon />
             </a>
-            <a href="https://www.instagram.com/khalil_0110_" target='_blanck' >
+            <a href="https://www.instagram.com/rayen.andolsi" target='_blanck' >
               <InstagramIcon />
             </a>
           </div>
-          <h4>Created By Khalil Andolsi | V2.0.0</h4>
+          <h4>Created By Rayen Andolsi | V2.0.0</h4>
         </div>
       </div>
     </header>
